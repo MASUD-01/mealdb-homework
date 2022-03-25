@@ -1,0 +1,26 @@
+.singal-meal img{
+width: 400px;
+}
+.singal-meal{
+    position: relative;
+    width: 400px;
+    height:680px;
+    text-align: center;
+    margin-top: 10px;
+    border: 2px solid rgb(209, 200, 219);
+}
+.singal-meal-info{
+    padding: 10px;
+    text-align: start;
+}
+.btn{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0; 
+}
+.btn p{
+    font-size: 20px;
+    margin: 0;
+    padding: 10px;
+}

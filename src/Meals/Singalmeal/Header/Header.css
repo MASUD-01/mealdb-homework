@@ -1,0 +1,21 @@
+.hrader-div{
+    background-color: #23180d;
+   
+}
+.header-info a{
+    text-decoration: none;
+    margin-left: 70px;
+    font-size: 30px;
+    color: white;
+}
+.header-info a:hover{
+    color: chartreuse;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 80px;
+    height: 100px;
+    color: white;
+}
